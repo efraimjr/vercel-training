@@ -1,6 +1,6 @@
 # Ryoku Vercel Test
 
-Ryoku Technologies - Vercel Training - Aim
+Ryoku Technologies - Vercel Training - Aim - For Sole Artisans PH
 
 ## Table of Contents
 
